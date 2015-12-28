@@ -1,3 +1,7 @@
+-- [[
+do return end
+--]]
+
 local players = {}
 --local timer = 0
 
